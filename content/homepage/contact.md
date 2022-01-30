@@ -1,11 +1,11 @@
 ---
-title: "Contact"
+title: "Kontakt"
 weight: 4
 header_menu: true
 ---
 
-{{<icon class="fa fa-envelope">}}&nbsp;[mail@janedoe.com](mailto:your-email@your-domain.com)
+{{<icon class="fa fa-envelope">}}&nbsp;[info@urmel-kinderladen.de](mailto:info@urmel-kinderladen.de)
 
-{{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
+{{<icon class="fa fa-phone">}}&nbsp; +49 30 6852152
 
-Let us get in touch!
+<!--- Let us get in touch! --->
